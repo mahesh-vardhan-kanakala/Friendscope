@@ -109,7 +109,7 @@ For any questions or feedback, feel free to contact me at [maheshvardhank@gmail.
 
 ## 🔗 Project Link
 
-Check out the live project here: [**Friendscope**](https://your-live-project-link.com)
+Check out the live project here: [**Friendscope**](https://friendscope-ten.vercel.app/)
 ```
 
 ### Instructions for Customization:
