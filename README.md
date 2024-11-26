@@ -1,6 +1,5 @@
 Here's a `README.md` template for your **Friendscope** project:
 
-```markdown
 # Friendscope - A Next.js Application
 
 **Friendscope** is a modern web application built with **Next.js**, **React**, **TypeScript**, and **TailwindCSS**. This project is designed with a strong focus on user experience, featuring dynamic and accessible UI components using **Radix UI**, smooth animations with **Framer Motion**, and advanced form handling with **React Hook Form** and **Zod**. 
@@ -43,13 +42,6 @@ Here's a `README.md` template for your **Friendscope** project:
 - **Data Handling**: 
   - **Recharts**: A charting library for building interactive and customizable charts.
   - **jsPDF**: A library for generating PDF documents in JavaScript.
-
----
-
-## 📸 Screenshots
-
-![Screenshot 1](./public/screenshots/screenshot1.png)  
-*Example of Friendscope Dashboard*
 
 ---
 
