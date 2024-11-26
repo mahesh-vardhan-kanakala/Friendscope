@@ -110,12 +110,3 @@ For any questions or feedback, feel free to contact me at [maheshvardhank@gmail.
 ## 🔗 Project Link
 
 Check out the live project here: [**Friendscope**](https://friendscope-ten.vercel.app/)
-```
-
-### Instructions for Customization:
-- Replace `https://github.com/yourusername/friendscope.git` with the actual GitHub repository URL.
-- Replace `your.email@example.com` with your own email.
-- Replace the project link placeholder `https://your-live-project-link.com` with the actual URL for your deployed project.
-- Add screenshots of the app in the `public/screenshots/` directory and update the image paths in the `![Screenshot 1](./public/screenshots/screenshot1.png)` section.
-
-This `README.md` provides a detailed overview of the project, including its features, tech stack, installation instructions, and how others can contribute to it.
